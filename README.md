@@ -28,6 +28,13 @@ The site focuses mainly on programming, websites, applications and AI tools. It 
 5. Papaki domain management
 6. Google Search Console
 7. SEO and indexing tools
+8. GitHub documentation
+
+## Achievements
+
+Gregory Brouzoukis won first place in the Algorithmics Christmas Contest 2026 with a Christmas themed programming project.
+
+He has also taken part in MIT BWSI Open related learning activity and continues to build projects connected with programming, web development, applications and AI automation.
 
 ## Current status
 
@@ -35,11 +42,18 @@ The website is live and is being improved step by step. The main structure, desi
 
 The project is still active. More content, stronger project pages, screenshots and technical improvements will be added over time.
 
+## Repository structure
+
+1. docs contains website documentation, SEO notes, profile background and project planning
+2. projects contains project pages and important work examples
+3. CHANGELOG keeps track of updates and progress
+4. assets can be used later for screenshots and preview images
+
 ## What this repository includes
 
 This repository does not contain private WordPress files, hosting files, passwords, backups or database exports.
 
-It includes documentation about the website, its structure, its design choices, its SEO setup and the custom improvements that were made.
+It includes documentation about the website, its structure, its design choices, its SEO setup, achievements and custom improvements.
 
 ## Goal
 
