@@ -1,6 +1,6 @@
 # Gregory Brouzoukis Portfolio Website
 
-![Portfolio preview](./εικόνα_Viber_2026-07-09_00-55-08-064.jpg)
+![Portfolio preview](./portfolio-preview.jpg)
 
 This repository documents my personal portfolio website, created to present my work, skills and progress in web development, programming, applications and AI automation.
 
